@@ -1,0 +1,4 @@
+initialTank=10
+#fire strategy
+goodFs=com.mashibing.tank.fireStrategy.FourDirFireStrategy
+badFs=com.mashibing.tank.fireStrategy.DefaultFireStrategy
